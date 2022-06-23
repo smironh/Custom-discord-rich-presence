@@ -1,4 +1,6 @@
 # Rich Presence
+# setup.exe В папке dist
+
 # Начало работы
 ## ```Для начало заходим в Discord developers и создаем приложение ```
 ![alt text](https://media.discordapp.net/attachments/988435018198163476/989453110982348810/create.png?width=1200&height=90)
